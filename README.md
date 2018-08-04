@@ -4,5 +4,5 @@ LFP (Looking for Party) is an adaptive website that will allow users to create a
 ## Goals
 My goal with LFP is to help people make more interpersonal connections through the games we play. As convenient as it may be to get a group together online to use Roll 20 or some similar technology to play, in my experience nothing beats sitting around a table with people and playing D&D together. This site will hopefully help develop those amazing moments for people and help them make some new friends along the way.
 
-##Down the Road
+## Down the Road
 Once the MVP version of LFP is completed, there are more features that I have in mind to add. Some features will make the site more convenient to use (dedicated mobile app), some will help users find exactly what they are looking for (advanced search by specific criteria), and some will help keep this community a safe and welcoming place for all users (player/GM rating, reporting system). Another future goal is to be able to support more tabletop RPGs, with special profile options specific to each game.
