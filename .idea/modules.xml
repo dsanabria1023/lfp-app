@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lfp-app.iml" filepath="$PROJECT_DIR$/.idea/modules/lfp-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lfp-app_main.iml" filepath="$PROJECT_DIR$/.idea/modules/lfp-app_main.iml" group="lfp-app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lfp-app_test.iml" filepath="$PROJECT_DIR$/.idea/modules/lfp-app_test.iml" group="lfp-app" />
       <module fileurl="file://$PROJECT_DIR$/lfp-app/src/main/main.iml" filepath="$PROJECT_DIR$/lfp-app/src/main/main.iml" />
       <module fileurl="file://$PROJECT_DIR$/lfp-app/src/test/test.iml" filepath="$PROJECT_DIR$/lfp-app/src/test/test.iml" />
     </modules>
