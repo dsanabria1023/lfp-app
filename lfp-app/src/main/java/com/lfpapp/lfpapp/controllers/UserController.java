@@ -36,10 +36,12 @@ public class UserController {
         if (errors.hasErrors()) {
             model.addAttribute("title", "Add Category");
             model.addAttribute("errors", new User());
-            return "category/add";
+            return "user/signup";
         } else {
             userDao.save(newUser);
-            return "Hello, " + newUser.getUsername() + "! Your location is " + newUser.getLocation() + ".";
+            model.addAttribute("username", newUser.getUsername());
+            model.addAttribute("location", newUser.getLocation());
+            return "home";
         }
     }
 
